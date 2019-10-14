@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World"
 date:   2019-10-14 14:36:41 -0500
-categories: jekyll update
+categories: personal
 ---
 Hello World!
 
