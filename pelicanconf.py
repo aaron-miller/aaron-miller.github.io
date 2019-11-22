@@ -4,10 +4,11 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Aaron Miller'
 SITENAME = 'cat /dev/random >> .'
-SITEURL = 'https://aaron-miller.github.io/'
+SITEURL = ''
 
 PATH = 'content'
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 TIMEZONE = 'America/Chicago'
 
