@@ -7,6 +7,7 @@ SITENAME = 'cat /dev/random >> .'
 SITEURL = ''
 
 PATH = 'content'
+STATIC_PATHS = ['images']
 
 TIMEZONE = 'America/Chicago'
 
@@ -33,3 +34,9 @@ DEFAULT_PAGINATION = 1
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# Generate feeds
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
+FEED_ALL_RSS = 'feeds/all.rss.xml'
+AUTHOR_FEED_RSS = 'feeds/%s.rss.xml'
+RSS_FEED_SUMMARY_ONLY = False
