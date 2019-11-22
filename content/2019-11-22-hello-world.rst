@@ -12,3 +12,4 @@ Hello World
 Hello World from Pelican!
 
 Switched from Jekyll since I want to focus more on Python projects!
+
