@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Aaron Miller'
 SITENAME = 'cat /dev/random >> .'
-SITEURL = ''
+SITEURL = 'https://www.aaron-miller.net'
 
 PATH = 'content'
 STATIC_PATHS = ['images']
