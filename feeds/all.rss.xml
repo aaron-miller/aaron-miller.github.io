@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>cat /dev/random &gt;&gt; .</title><link>https://www.aaron-miller.net/</link><description></description><lastBuildDate>Fri, 29 Nov 2019 12:56:00 -0600</lastBuildDate><item><title>Hello World</title><link>https://www.aaron-miller.net/hello-world.html</link><description>&lt;p&gt;Hello World from Pelican!&lt;/p&gt;
-&lt;p&gt;Switched from Jekyll since I want to focus more on Python projects!&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Aaron Miller</dc:creator><pubDate>Fri, 29 Nov 2019 12:56:00 -0600</pubDate><guid isPermaLink="false">tag:www.aaron-miller.net,2019-11-29:/hello-world.html</guid><category>blog-updates</category><category>pelican</category></item></channel></rss>

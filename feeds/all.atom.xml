@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>cat /dev/random &gt;&gt; .</title><link href="https://www.aaron-miller.net/" rel="alternate"></link><link href="https://www.aaron-miller.net/feeds/all.atom.xml" rel="self"></link><id>https://www.aaron-miller.net/</id><updated>2019-11-29T12:56:00-06:00</updated><entry><title>Hello World</title><link href="https://www.aaron-miller.net/hello-world.html" rel="alternate"></link><published>2019-11-29T12:56:00-06:00</published><updated>2019-11-29T12:56:00-06:00</updated><author><name>Aaron Miller</name></author><id>tag:www.aaron-miller.net,2019-11-29:/hello-world.html</id><summary type="html">&lt;p class="first last"&gt;Hello World&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;Hello World from Pelican!&lt;/p&gt;
-&lt;p&gt;Switched from Jekyll since I want to focus more on Python projects!&lt;/p&gt;
-</content><category term="blog-updates"></category><category term="pelican"></category></entry></feed>
